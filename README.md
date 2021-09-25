@@ -1,7 +1,7 @@
 ### Olá! Eu sou Catarina ✨
 <br />
 
-![Catarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=lopescat&theme=onedark&show_icons=true)
+![Catarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=lopescat&theme=tokyonight&show_icons=true)
 <br /><br />
 <div style="display: inline_block">
    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
